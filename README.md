@@ -2,14 +2,12 @@
 
 my collection of profile pictures
 
-## Navigation
+# Navigation
 
-pages count: `1`
+> pages count: `7`
 
-pfps count: `32`
+> **|✿[see the pages](Navigation.md)✿|**
 
-[see the pages](Navigation.md)
+> pfps count: `32`
 
----
-
-made with love, for others..
+**made with love, for others..**
