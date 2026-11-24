@@ -2,6 +2,7 @@
 
 ### collection of profile pictures | pfps count: `33`
 
+#### contact email: stvrgcze@gmail.com
 ---
 
 # Navigation
