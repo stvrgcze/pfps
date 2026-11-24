@@ -1,13 +1,12 @@
-# Welcome home, pfp searchers
- <img src="https://github.com/stvrgcze/pfps/blob/main/storage/pfps-preview.png" width="100%" alt="pfps preview">
-my collection of profile pictures
+<img src="https://github.com/stvrgcze/pfps/blob/main/storage/pfps-preview.png" width="100%" alt="pfps preview">
+
+### collection of profile pictures | pfps count: `33`
+
+---
 
 # Navigation
-
 > pages count: `7`
 
-> **|✿[see the pages](Navigation.md)✿|**
-
-> pfps count: `32`
+> [<img src="https://github.com/Shadowniko1/pfps/blob/main/storage/pages-image.png" width="14%" alt="pages">](https://github.com/stvrgcze/pfps/blob/main/Navigation.md)
 
 **made with love, for others..**
