@@ -6,7 +6,7 @@ my collection of profile pictures
 
 > pages count: `7`
 
-> **|✿[see the pages](Navigation.md)✿|**
+> **[see the pages](Navigation.md)**
 
 > pfps count: `32`
 
