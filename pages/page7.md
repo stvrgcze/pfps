@@ -1,5 +1,5 @@
 ## **page 7**
-> [<--prev](page6.md) | [nav](../Navigation.md)
+> [<--](page6.md) | [nav](../Navigation.md) | [-->](page8.md)
 #
 <img alt="pfp 31" src="/pfps/pfp.31.jpg" />
 <img alt="pfp 32" src="/pfps/pfp.32.jpg" />
@@ -9,4 +9,4 @@
 
 
 ---
-[nav](../Navigation.md)
+][nav](../Navigation.md)
