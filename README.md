@@ -10,3 +10,4 @@
 > [<img src="https://github.com/Shadowniko1/pfps/blob/main/storage/pages-image.png" width="14%" alt="pages">](https://github.com/stvrgcze/pfps/blob/main/Navigation.md)
 
 **made with love, for others..**
+###### credits to [shadow](https://github.com/Shadowniko1)
