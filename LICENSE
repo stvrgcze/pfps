@@ -1,11 +1,21 @@
-Profile Pictures Collection
+MIT License
 
-A curated collection of profile pictures (pfps) gathered from Pinterest and around the web.
+Copyright (c) 2026 stvrgcze
 
-Copyright & Credits Disclaimer
-* **No Ownership Claimed:** I do not own any of the images in this repository. All artwork, characters, and photos belong to their respective original creators and copyright holders.
-* **Source:** Most images were sourced from Pinterest. Where possible, original artists will be credited.
-* **Takedown / Credit Requests:** If you are the original creator of any image here and would like proper credit added or want your work removed, please open an issue or contact me and I will update it immediately.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Code License
-Any custom code, scripts, or website files in this repository are licensed under the **MIT License**. This license applies **only to the code** and does not grant rights to the profile picture images.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
