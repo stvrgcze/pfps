@@ -1,5 +1,5 @@
 # Welcome home, pfp searchers
-
+ <img src="https://github.com/stvrgcze/pfps/blob/main/storage/pfps-preview.png" width="100%" alt="pfps preview">
 my collection of profile pictures
 
 # Navigation
@@ -9,7 +9,5 @@ my collection of profile pictures
 > **|✿[see the pages](Navigation.md)✿|**
 
 > pfps count: `32`
-
-[![image](storage/home.png)](Navigation.md)
 
 **made with love, for others..**
