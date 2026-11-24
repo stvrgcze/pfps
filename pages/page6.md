@@ -7,4 +7,6 @@
 <img alt="pfp 29" src="../pfps/pfp.29.jpg" />
 <img alt="pfp 30" src="../pfps/pfp.30.jpg" />
 
+---
+
 [next-->](page7.md)
