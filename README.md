@@ -1,6 +1,6 @@
 <img src="https://github.com/stvrgcze/pfps/blob/main/storage/pfps-preview.png" width="100%" alt="pfps preview">
 
-### collection of profile pictures | pfps count: `35`
+### collection of profile pictures | pfps count: `40`
 
 #### contact email: stvrgcze@gmail.com
 ---
