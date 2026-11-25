@@ -8,6 +8,6 @@
 
 *Page [`5`](pages/page5.md)* ---|--- *Page [`6`](pages/page6.md)*
 
-*Page [`7`](pages/page7.md)* ---|---
+*Page [`7`](pages/page7.md)* ---|--- *Page [`8`](pages/page8.md)*
 
 [![image](storage/pfps-preview.png)](README.md)
