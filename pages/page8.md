@@ -1,5 +1,5 @@
 ## **page 8**
-> [<--prev](pageN.md) | [nav](../Navigation.md)
+> [<--prev](page7.md) | [nav](../Navigation.md)
 #
 
 
