@@ -9,4 +9,4 @@
 
 ---
 
-[next-->](page3.md)
+[<--prev](page1.md) | [nav](../Navigation.md) | [next-->](page3.md)
