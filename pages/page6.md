@@ -8,5 +8,4 @@
 <img alt="pfp 30" src="../pfps/pfp.30.jpg" />
 
 ---
-
 > [<--prev](page5.md) | [nav](../Navigation.md) | [next-->](page7.md)
